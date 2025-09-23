@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 3d675acf-a904-e934-539a-8c5bc186d441
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 97ae9684-1086-5ebc-58d4-6d2d086c2fe2
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 20
+- identifier: a9a6fc2a-c408-9c5f-33af-17e853279f1b
+  name: Projects
+  pageRef: /pages/projects
+  weight: 30
+- identifier: 6287434e-fb7f-8b96-5a40-994c74b22f9c
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 40
+- identifier: 98c05d51-6d98-adcf-a7e7-203c245e831a
+  name: Image Galleries
+  pageRef: /pages/image-galleries/
+  weight: 50
