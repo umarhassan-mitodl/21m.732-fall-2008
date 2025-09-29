@@ -4,6 +4,8 @@ description: John, son of Henry and Eleanor.
 file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/49a6f6c79c3b7c410a711c5175f25a11_john.jpg
 file_size: 37515
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: John, son of Henry and Eleanor.
   credit: 'Credit: Image courtesy of Sarah Slotznick. Used with permission.'

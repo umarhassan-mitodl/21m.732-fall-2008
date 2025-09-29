@@ -4,6 +4,8 @@ description: 'Richard: the warlord with a soft heart and personal ties.'
 file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/4f1d55afb35f0d4e1734fb7919029e30_richard1.jpg
 file_size: 59317
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: 'Richard: the warlord with a soft heart and personal ties.'
   credit: 'Credit: Image courtesy of an MIT student. Used with permission.'

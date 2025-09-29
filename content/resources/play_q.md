@@ -4,6 +4,8 @@ description: Questions to consider when reading a play for the course.
 file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/a2feb1e9da3dc66db472857d9abbe1ad_play_q.pdf
 file_size: 29922
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

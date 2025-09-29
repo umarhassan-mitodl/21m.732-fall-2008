@@ -4,6 +4,8 @@ description: Class handout on script and character analysis for costume design.
 file: /courses/21m-732-beginning-costume-design-and-construction-fall-2008/b85e1d21573eee8e1839bcb4297fe925_script.pdf
 file_size: 28880
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains details about the various activities students complete
   in and out of class.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -211,7 +213,7 @@ Begin drafting unit: bodice and hip block
 
 ### Food assignment
 
-Ads for Vytorin, an anti-cholesterol drug, feature photos of food and people with matching appearances. See examples: {{% resource_link "8f554b74-c80e-4d8f-9188-aed3a061fdeb" "one" %}}, {{% resource_link "89b43bd6-3413-4b01-8710-58cd3e9af080" "two" %}}, {{% resource_link "5f6d488c-c3d7-4d15-bcf1-a32aaf1c9d0c" "three" %}}, {{% resource_link "9a534959-30d8-473b-a224-78c32fc62767" "four" %}}. Students were asked to bring in a photo of a food that they find attractive. They then render a character using the same principles of design observed in the food picture. ({{% resource_link b0081133-fc7e-cb3e-2f17-a4cde7eb0d41 "Images" %}})
+Ads for Vytorin, an anti-cholesterol drug, feature photos of food and people with matching appearances. See examples: [one](http://dearscience.org/wp-content/uploads/2008/04/vytorin500.jpg), [two](http://i.zdnet.com/blogs/vytorinad.JPG), [three](http://s.wsj.net/media/vytorin_c_20080116140537.jpg), [four](http://bp0.blogger.com/_ZiPiXEv_Q_g/Rd2XAUnIbvI/AAAAAAAAANA/dImNwirU7DI/s1600-h/VytorinWebAd.jpg). Students were asked to bring in a photo of a food that they find attractive. They then render a character using the same principles of design observed in the food picture. ({{% resource_link b0081133-fc7e-cb3e-2f17-a4cde7eb0d41 "Images" %}})
 
 
 {{< tdclose >}}
