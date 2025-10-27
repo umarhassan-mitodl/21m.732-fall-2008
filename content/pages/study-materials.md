@@ -25,7 +25,7 @@ Lecture: Reading the Play
 
 {{< tdclose >}}{{< tdopen >}}
 
-Chekhov, Anton. "[*On the Harm of Tobacco*](http://method.vtheatre.net/doc/tobacco.html)."
+Chekhov, Anton. "{{% resource_link "51dbbff3-e341-4b63-afa2-32c0c81443be" "*On the Harm of Tobacco*" %}}."
 
 Baker, Georgia O'Daniel, and Helen Redel Pullman. "The Basic Figure and How Clothes Fit the Body." Chapter 1 in *A Handbook of Costume Drawing*. Burlington, MA: Focal Press, 2000. ISBN: 9780240804033.
 
@@ -45,9 +45,9 @@ Discuss *On the Harm of Tobacco* lists
 
 {{< tdclose >}}{{< tdopen >}}
 
-Perrault, Charles. "[Little Red Riding Hood](http://www.gutenberg.org/files/17208/17208-h/17208-h.htm#LITTLE_RED_RIDING-HOOD)." (1697)    
-Baring-Gould, Sabine. "Little Red Riding Hood." (1895)    
-Sharpe, Anne. "Not So Little Red Riding Hood." (1985)    
+Perrault, Charles. "{{% resource_link "a536211e-4df4-4c91-b959-cc45ed4fa70e" "Little Red Riding Hood" %}}." (1697)     
+Baring-Gould, Sabine. "Little Red Riding Hood." (1895)     
+Sharpe, Anne. "Not So Little Red Riding Hood." (1985)     
 Phillips, H. I. "Little Red Riding Hood as a Dictator Would Tell It." (1940)
 
 Taken from:  Zipes, Jack. *The Trials & Tribulations of Little Red Riding Hood*. New York, NY: Routledge, 1993. ISBN: 978-0415908351.
@@ -104,12 +104,12 @@ Elements of Design ({{% resource_link "80a71a3e-0994-05c9-b76d-0c50453dc78f" "PD
 
 Fig. 4.29, 4.30, 4.31 in *Costume Design*.
 
-pp. 72-73, 75, 92-93, 95, 101, 123-125 in *The Magic Garment*:    
-Box 4.A, "Aspects of Line."    
-Box 4.B, "Visual Effects of Shape in Costume."    
-Box 4.F, "Historical Color Symbolism."    
-Box 4.G, "Major Color Associations of Western European and American Cultures."    
-Box 4.H, "Effects of Texture."    
+pp. 72-73, 75, 92-93, 95, 101, 123-125 in *The Magic Garment*:     
+Box 4.A, "Aspects of Line."     
+Box 4.B, "Visual Effects of Shape in Costume."     
+Box 4.F, "Historical Color Symbolism."     
+Box 4.G, "Major Color Associations of Western European and American Cultures."     
+Box 4.H, "Effects of Texture."     
 Boxes 5.A, 5.B, 5.C, 5.D.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -132,7 +132,7 @@ Watch excerpts of *Hamlet* by Zeffirelli and discuss idea of concept
 
 {{< tdclose >}}{{< tdopen >}}
 
-"[*Hamlet*](http://www.imdb.com/title/tt0099726/)." Directed by Franco Zeffirelli. Warner Brothers, 1990.
+"{{% resource_link "074285a5-238d-441c-b1d6-980dc05800b4" "*Hamlet*" %}}." Directed by Franco Zeffirelli. Warner Brothers, 1990.
 
 Boxes 5.A, 5.B, 5.C, 5.D, pp. 123-125 in *The Magic Garment*.
 
@@ -215,7 +215,7 @@ Look at *Stupid Kids* sketches
 Begin sloper manipulation project
 
 {{< tdclose >}}{{< tdopen >}}
-Maginnis, Tara. [*Kiosk Man*](http://taramaginnis.com/54548_01front008/).
+Maginnis, Tara. {{% resource_link "fe16acf9-1a75-4323-87ec-c6e556385128" "*Kiosk Man*" %}}.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
@@ -260,13 +260,9 @@ Sloper project
 
 {{< tdclose >}}{{< tdopen >}}
 
-Apparel Search Company. "[Unusual Clothing - Tokyo Skirt](http://www.apparelsearch.com/Unusual_Clothes/unusual_clothing_tokyo_skirt.htm)."
+Apparel Search Company. "{{% resource_link "6adc5d06-2561-4111-be11-102a51c2b9c3" "Unusual Clothing - Baby Mops" %}}."
 
-Apparel Search Company. "[Unusual Clothing - Baby Mops](https://www.babymop.com/en/index.html)."
-
-Apparel Search Company. "[Unusual Clothing - Handy Support](http://www.apparelsearch.com/Unusual_Clothes/unusual_clothing_supportive_hands.htm)."
-
-The Scream Online. "[Hats of Meat](https://web.archive.org/web/20060208051037/https://thescreamonline.com/strange/strange2-2/hatsofmeat.html)."
+The Scream Online. "{{% resource_link "e78111fa-f14b-4983-9f5c-b5fa8100b20d" "Hats of Meat" %}}."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
